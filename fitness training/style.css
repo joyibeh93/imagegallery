@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(0, 0, 0, 0.283);
+}
+
+h3 {
+    text-align: center;
+    margin-top: 10px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.imagename {
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    word-spacing: 3px;
+    color: #2c2c9d;
+    font-weight: bold;
+}
